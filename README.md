@@ -4,7 +4,7 @@ An API for a social network web application
 ## Table of Contents
 - [Purpose](#purpose)
 - [Installation](#installation)
-- [Walkthrough](#WalkthroughVideo)
+- [Walkthrough](#Walkthrough)
 - [Contact](#Contact)
 
 ## Purpose
@@ -13,7 +13,7 @@ NoSQL databses like MongoDB are popular options for many social networks due to 
 ## Installation
 To run the app you must have Node.js installed. Clone the repo and run `npm i` to install node dependencies. To start the application run `npm start` and test the API routes with any API design platform. 
 
-## Walkthrough Video
+## Walkthrough 
 Here is a video of the routes being tested in [Insomnia Core](https://insomnia.rest/products/insomnia)
 
 ![](./assets/social-network.gif)
