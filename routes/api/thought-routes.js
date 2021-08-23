@@ -17,7 +17,7 @@ router.route('/:userId')
 // api/thoughts/<userId>/<thoughtId>
 router
     .route('/:userId/:thoughtId')
-    .put(addReaction)
+    .post(addReaction)
     .delete(removeThought);
 
 // api/comments/<UserId>/<thoughtId>/<replyId>
