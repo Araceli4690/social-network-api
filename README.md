@@ -14,9 +14,11 @@ NoSQL databses like MongoDB are popular options for many social networks due to 
 To run the app you must have Node.js installed. Clone the repo and run `npm i` to install node dependencies. To start the application run `npm start` and test the API routes with any API design platform. 
 
 ## Walkthrough Video
-Here is a walkthrough video of the routes being tested in [Insomnia Core](https://insomnia.rest/products/insomnia)
+Here is a video of the routes being tested in [Insomnia Core](https://insomnia.rest/products/insomnia)
 
-<iframe src="https://drive.google.com/file/d/1wOr7IzGL-mnNdAeC8J4FroSFvpXmOTt9/preview" width="640" height="480"></iframe>
+![](./assets/social-network.gif)
+
+You can view the full video [Here](https://drive.google.com/file/d/1wOr7IzGL-mnNdAeC8J4FroSFvpXmOTt9/view)
 
 ## Contact
 If you have any questions feel free to contact me through my [Github](https://github.com/Araceli4690).
